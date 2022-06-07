@@ -2,11 +2,11 @@
 
 Creación de página web de Wordpress desde el Portal Azure.
 
-##Requisitos
+## Requisitos
 - Cuenta de Azure con suscripción.
 - Sistema Operativo Windows, Linux o MacOs.
 
-##Procedimiento
+## Procedimiento
 1. Ingresamos a [Portal Azure](https://portal.azure.com)
 ![img0 Portal Azure](https://github.com/OrtegaRamiro31/PaginaWordpress/blob/main/imagenes/0.png)
 
